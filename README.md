@@ -24,23 +24,6 @@ A full-stack web application that allows users to search, post, and apply for jo
 - **Tools**: Eclipse IDE, XAMPP, Git, GitHub
 
 ---
-## 📁 Project Structure
-
-new_portal3/
-│
-├── src/
-│ ├── model/
-│ ├── dao/
-│ ├── controller/
-│ └── view/
-├── web/
-│ └── WEB-INF/
-├── lib/ (external JARs)
-├── .project
-├── .classpath
-└── README.md
-
----
 
 ## 🧠 What I Learned
 
